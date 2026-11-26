@@ -1,0 +1,8 @@
+{
+  "name": "text-compare-lab",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "gtest"
+  ],
+  "builtin-baseline": "c9cd2d02a271c8bc4ddcf1e30997a09f2750c1c2"
+}
